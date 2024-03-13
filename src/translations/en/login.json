@@ -1,0 +1,10 @@
+{
+  "signInTitle": "Sign in",
+  "signInSubtitle": "Please sign in to continue",
+  "emailLabel": "Email",
+  "passwordLabel": "Password",
+  "rememberMe": "Remember me",
+  "forgotPassword": "Forgot your password?",
+  "dontHaveAccount": "Don't have an account yet?",
+  "signUp": "SIGN UP"
+}
